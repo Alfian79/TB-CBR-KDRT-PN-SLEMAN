@@ -57,6 +57,10 @@ README.md
 - requests
 - BeautifulSoup
 
+## Prject by
+- Dino Alfian Zamri
+- Muhammad Yusron AL Ghoni R
+
 ## Team Notes
 
 This repository will be developed incrementally following each stage of the CBR assignment.
