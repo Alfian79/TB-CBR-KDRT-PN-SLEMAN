@@ -1,0 +1,42 @@
+[
+  {
+    "query": "a i s e n o d n i k i l b u p e a r i s g e n n o u d g n a i h k a i l m b u a p k direktori putusan e h a r a i p u t u s a n s m g nomor 306k pid sus 2014 e demi keadilan berdasarkan ketuhanan yang",
+    "ground_truth_case_id": 1
+  },
+  {
+    "query": "a i s e n o d n i k i l b u p e a r i s g e n n o u d g n a i h k a i l m b u a p k direktori putusan e h a r a i p u t u s a n s m g nomor 373 k mil 2023 e demi keadilan berdasarkan ketuhanan yang ma",
+    "ground_truth_case_id": 2
+  },
+  {
+    "query": "a i s e n o d n i k i l b u p e a r i s g e n n o u d g n a i h k a i l m b u a p k direktori putusan e h a r a i p u t u s a n s m gno 504 k pid sus 2010 e demi keadilan berdasarkan ketuhanan yang ma",
+    "ground_truth_case_id": 3
+  },
+  {
+    "query": "a i s e n o d n i k i l b u p e a r i s g e n n o u d g n a i h k a i l m b u a p k direktori putusan e h a r a i s m p u t u s a n g e nomor 605k pid sus 2013 n n demi keadilan berdasarkan ketuhanan ",
+    "ground_truth_case_id": 4
+  },
+  {
+    "query": "a i s e n o d n i k i l b u p e a r i s g e n n o u d g n a i h k a i l m b u a p k direktori putusan e h a r a i p u t u s a n s m gnomor 666 k pid sus 2018 e demi keadilan berdasarkan ketuhanan yang",
+    "ground_truth_case_id": 5
+  },
+  {
+    "query": "a i s e n o d n i k i l b u p e a r i s g e n n o u d g n a i h k a i l m b u a p k direktori putusan e h a r a i p u t u s a n s m gnomor 766 k pid sus 2011 e demi keadilan berdasarkan ketuhanan yang",
+    "ground_truth_case_id": 6
+  },
+  {
+    "query": "a i s e n o d n i k i l b u p e a r i s g e n n o u d g n a i h k a i l m b u a p k direktori putusan e h a r a i p u t u s an s m g nomor 190 pk pid sus 2014 e demi keadilan berdasarkan ketuhanan yan",
+    "ground_truth_case_id": 7
+  },
+  {
+    "query": "a i s e n o d n i k i l b u p e a r i s g e n n o u d g n a i h k a i l m b u a p k direktori putusan e h a r a i p u t u s a n s m gno 1342 k pid sus 2009 e demi keadilan berdasarkan ketuhanan yang m",
+    "ground_truth_case_id": 8
+  },
+  {
+    "query": "a i s e n o d n i k i l b u p e a r i s g e n n o u d g n a i h k a i l m b u a p k direktori putusan e h a r a i p u t u s a n s m g nomor 6 k mil 2019 e demi keadilan berdasarkan ketuhanan yang maha",
+    "ground_truth_case_id": 9
+  },
+  {
+    "query": "a i s e n o d n i k i l b u p e a r i s g e n n o u d g n a i h k a i l m b u a p k direktori putusan e h a r a i p u t u s a n s m g no 1523k pid sus 2015 e demi keadilan berdasarkan ketuhanan yang m",
+    "ground_truth_case_id": 10
+  }
+]

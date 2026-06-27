@@ -1,0 +1,62 @@
+query_id,query_text,predicted_solution_majority_vote,top_k_case_ids_majority_vote,predicted_solution_weighted_sim,top_k_case_ids_weighted_sim
+query_1,A new case involving a minor theft accusation.,"[Case_005] kasasi  Pemohon  Kasasi/Terdakwa  tidak  dapat
+dibenarkan, putusan judex facti Pengadilan Tinggi yang menguatkan putusan
+judex facti Pengadilan Negeri yang menyatakan Terdakwa terbukti secara
+sah  dan  meyakinkan  bersalah  melakukan  tindak  pidan","Case_005, Case_024, Case_010","[Case_005] kasasi  Pemohon  Kasasi/Terdakwa  tidak  dapat
+dibenarkan, putusan judex facti Pengadilan Tinggi yang menguatkan putusan
+judex facti Pengadilan Negeri yang menyatakan Terdakwa terbukti secara
+sah  dan  meyakinkan  bersalah  melakukan  tindak  pidan","Case_005, Case_024, Case_010"
+query_2,A complex civil case regarding contract fulfillment.,"[Case_010] SENDIRI
+1.Menyatakan Terdakwa Arief Faturahman bin Ibnul Yatim terbukti secara sah
+dan meyakinkan bersalah melakukan tindak pidana, “ Kekerasan secara fisik
+dalam lingkup rumah tangga yang dipandang sebagai satu perbuatan
+berlanjut ”;
+2.Menjatuhkan pidana kepada Terdakwa Arief Faturahman bin Ibnul
+Yatim dengan pidana pen jara selama 4(empat )bulan;
+3.Menetapkan lamanya Terdakwa berada dalam tahanan sebelum putusan ini
+mempunyai kekuatan hukum tetap dikurangkan seluruhnya dari pidana yang
+dijatu","Case_010, Case_001, Case_024","[Case_010] SENDIRI
+1.Menyatakan Terdakwa Arief Faturahman bin Ibnul Yatim terbukti secara sah
+dan meyakinkan bersalah melakukan tindak pidana, “ Kekerasan secara fisik
+dalam lingkup rumah tangga yang dipandang sebagai satu perbuatan
+berlanjut ”;
+2.Menjatuhkan pidana kepada Terdakwa Arief Faturahman bin Ibnul
+Yatim dengan pidana pen jara selama 4(empat )bulan;
+3.Menetapkan lamanya Terdakwa berada dalam tahanan sebelum putusan ini
+mempunyai kekuatan hukum tetap dikurangkan seluruhnya dari pidana yang
+dijatu","Case_010, Case_001, Case_024"
+query_3,Charges of financial fraud against a corporate executive.,"[Case_004] hal mana akan terus kami perbaiki dari waktu kewaktu.
+Dalam hal Anda menemukan inakurasi informasi yang termuat pada situs ini atau informasi yang seharusnya ada, namun belum tersedia, maka harap segera hubungi Kepaniteraan Mahkamah Agung RI melalui","Case_004, Case_029, Case_012","[Case_004] hal mana akan terus kami perbaiki dari waktu kewaktu.
+Dalam hal Anda menemukan inakurasi informasi yang termuat pada situs ini atau informasi yang seharusnya ada, namun belum tersedia, maka harap segera hubungi Kepaniteraan Mahkamah Agung RI melalui","Case_004, Case_029, Case_012"
+query_4,A case of property damage and demand for restitution.,"[Case_009] SENDIRI:  
+1. Menyatakan Terdakwa I MADE SOSIAWAN SUGATA, S.M., Letnan 
+Kolonel Caj NRP .33204  terbukti secara sah dan meyakinkan 
+bersalah melakukan tindak pidana “Menelantarkan Orang Lain Dalam 
+Lingkup Rumah Tangga” dan “Zina”;  
+2. Menjatuhkan pidana kepada Terdakwa oleh karena itu dengan pidana 
+penjara selama 6 (enam) bulan;  
+3. Menetapkan barang bukti berupa:  
+a. Barang:  
+- 1 (satu) buah flashdis k warna hitam y ang berisi foto-foto mesra 
+dan foto nikah siri antara Terdakwa dengan S","Case_009, Case_005, Case_010","[Case_009] SENDIRI:  
+1. Menyatakan Terdakwa I MADE SOSIAWAN SUGATA, S.M., Letnan 
+Kolonel Caj NRP .33204  terbukti secara sah dan meyakinkan 
+bersalah melakukan tindak pidana “Menelantarkan Orang Lain Dalam 
+Lingkup Rumah Tangga” dan “Zina”;  
+2. Menjatuhkan pidana kepada Terdakwa oleh karena itu dengan pidana 
+penjara selama 6 (enam) bulan;  
+3. Menetapkan barang bukti berupa:  
+a. Barang:  
+- 1 (satu) buah flashdis k warna hitam y ang berisi foto-foto mesra 
+dan foto nikah siri antara Terdakwa dengan S","Case_009, Case_005, Case_010"
+query_5,An appeal of a previous drug possession conviction.,"[Case_002] itu , permohonan kasasi Oditur 
+Militer tersebut secara formal dapat diterima ; 
+Menimbang bahwa alasan kasas i yang diajukan Pemohon Kasasi/  
+Oditur Militer dalam memori kasasi selengkapnya termuat dalam berkas 
+perkara;  
+Menimbang bahwa terhadap","Case_002, Case_018, Case_007","[Case_002] itu , permohonan kasasi Oditur 
+Militer tersebut secara formal dapat diterima ; 
+Menimbang bahwa alasan kasas i yang diajukan Pemohon Kasasi/  
+Oditur Militer dalam memori kasasi selengkapnya termuat dalam berkas 
+perkara;  
+Menimbang bahwa terhadap","Case_002, Case_018, Case_007"
